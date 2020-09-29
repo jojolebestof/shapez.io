@@ -123,7 +123,7 @@ dialogs:
         showKeybindings: Montrer les raccourcis
     importSavegameError:
         title: Erreur d’importation
-        text: Impossible d’importer votre sauvegarde :
+        text: "Impossible d’importer votre sauvegarde :"
     importSavegameSuccess:
         title: Sauvegarde importée
         text: Votre sauvegarde a été importée avec succès.
@@ -198,7 +198,7 @@ dialogs:
         title: Nouvelle balise
         titleEdit: Modifier cette balise
         desc: Donnez-lui un nom, vous pouvez aussi inclure <strong>le raccourci</strong>
-            d’une forme (que vous pouvez générer 
+            d’une forme (que vous pouvez générer
             <a href="https://viewer.shapez.io" target="_blank">ici</a>).
     editSignal:
         title: Définir le signal
@@ -967,7 +967,7 @@ keybindings:
         menuOpenStats: Statistiques
         menuClose: Fermer le menu
         toggleHud: Basculer l’affichage tête haute (ATH)
-        toggleFPSInfo: Basculer l’affichage des IPS (itérations par seconde) 
+        toggleFPSInfo: Basculer l’affichage des IPS (itérations par seconde)
             et des informations de débogage
         switchLayers: Basculer le calque
         exportScreenshot: Exporter une image de toute la base
